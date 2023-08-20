@@ -1,0 +1,265 @@
+Group: 36
+Members: Maximilian Voshchepynets (k11946886)
+
+
+Active Set Method
+
+
+    
+            ########## Problem 1 ##########
+            Starting Point: [0. 0.]
+
+            m=1, n=2
+            Solution: [0. 0.]
+            Number of Iterations: 1
+            Stopping criterion: Optimal solution found
+            Running Time: 6.604194641113281e-05 seconds
+            
+
+            
+            ########## Problem 2 ##########
+            Starting Point: [0. 0.]
+
+            m=1, n=2
+            Solution: [0. 0.]
+            Number of Iterations: 1
+            Stopping criterion: Optimal solution found
+            Running Time: 4.38690185546875e-05 seconds
+            
+
+            
+            ########## Problem 3 ##########
+            Starting Point: [0. 0.]
+
+            m=1, n=2
+            Solution: [0. 0.]
+            Number of Iterations: 1
+            Stopping criterion: Optimal solution found
+            Running Time: 4.6253204345703125e-05 seconds
+            
+
+            
+            ########## Problem 4 ##########
+            Starting Point: [0. 0. 0. 0.]
+
+            m=2, n=4
+            Solution: [ 0.81123149  0.47263658 -0.49606839 -1.24603582]
+            Number of Iterations: 1000
+            Stopping criterion: Optimal solution found
+            Running Time: 0.04094099998474121 seconds
+            
+
+            
+            ########## Problem 5 ##########
+            Starting Point: [0. 0. 0. 0.]
+
+            m=2, n=4
+            Solution: [0. 0. 0. 0.]
+            Number of Iterations: 1
+            Stopping criterion: Optimal solution found
+            Running Time: 4.982948303222656e-05 seconds
+            
+
+            
+            ########## Problem 6 ##########
+            Starting Point: [0. 0. 0. 0.]
+
+            m=2, n=4
+            Solution: [0. 0. 0. 0.]
+            Number of Iterations: 1
+            Stopping criterion: Optimal solution found
+            Running Time: 4.267692565917969e-05 seconds
+            
+
+            
+            ########## Problem 7 ##########
+            Starting Point: [0. 0. 0. 0. 0. 0.]
+
+            m=3, n=6
+            Solution: [ 0.5762676   1.03378829  1.01822134  0.93528324 -0.5442621  -0.37762829]
+            Number of Iterations: 1000
+            Stopping criterion: Optimal solution found
+            Running Time: 0.050974130630493164 seconds
+            
+
+            
+            ########## Problem 8 ##########
+            Starting Point: [0. 0. 0. 0. 0. 0.]
+
+            m=3, n=6
+            Solution: [ 0.1152254  -0.18257671  0.40597086  0.52875627  0.99638161 -0.39548225]
+            Number of Iterations: 1000
+            Stopping criterion: Optimal solution found
+            Running Time: 0.04390382766723633 seconds
+            
+
+            
+            ########## Problem 9 ##########
+            Starting Point: [0. 0. 0. 0. 0. 0.]
+
+            m=3, n=6
+            Solution: [0. 0. 0. 0. 0. 0.]
+            Number of Iterations: 1
+            Stopping criterion: Optimal solution found
+            Running Time: 5.1021575927734375e-05 seconds
+            
+
+            
+            ########## Problem 10 ##########
+            Starting Point: [0. 0. 0. 0. 0. 0. 0. 0.]
+
+            m=4, n=8
+            Solution: [ 0.90312118  0.84422949  1.05907754 -0.93678322  1.          0.7209305
+ -0.03966493  0.98941114]
+            Number of Iterations: 1000
+            Stopping criterion: Optimal solution found
+            Running Time: 0.08309483528137207 seconds
+            
+
+            
+            ########## Problem 11 ##########
+            Starting Point: [0. 0. 0. 0. 0. 0. 0. 0.]
+
+            m=4, n=8
+            Solution: [0.3051046  0.65397967 0.40761073 1.05230604 1.3601746  0.10849422
+ 0.24896813 0.1542221 ]
+            Number of Iterations: 1000
+            Stopping criterion: Optimal solution found
+            Running Time: 0.05077791213989258 seconds
+            
+
+            
+            ########## Problem 12 ##########
+            Starting Point: [0. 0. 0. 0. 0. 0. 0. 0.]
+
+            m=4, n=8
+            Solution: [ 0.48175085 -0.040405    0.99933833  0.19573763  0.3136066   1.22423007
+ -0.65196194  0.80023426]
+            Number of Iterations: 1000
+            Stopping criterion: Optimal solution found
+            Running Time: 0.07506394386291504 seconds
+            
+
+            
+            ########## Problem 13 ##########
+            Starting Point: [0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+
+            m=5, n=10
+            Solution: [ 0.84817393  0.27593354  1.05050114 -1.28547124  0.56051344 -0.61203453
+  0.24057128  1.29242697 -1.04847518 -2.30288802]
+            Number of Iterations: 1000
+            Stopping criterion: Optimal solution found
+            Running Time: 0.0691981315612793 seconds
+            
+
+            
+            ########## Problem 14 ##########
+            Starting Point: [0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+
+            m=5, n=10
+            Solution: [0.77413133 1.15028795 0.72787894 0.67258417 1.14646616 0.76897218
+ 1.03956587 0.64558895 1.39458894 0.5801794 ]
+            Number of Iterations: 1000
+            Stopping criterion: Optimal solution found
+            Running Time: 0.10948300361633301 seconds
+            
+
+            
+            ########## Problem 15 ##########
+            Starting Point: [0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+
+            m=5, n=10
+            Solution: [ 0.1286326   0.59845827  1.17724026  0.86103984 -0.74154257 -1.82516743
+  0.47588884  0.56108342 -1.80223778  0.04504098]
+            Number of Iterations: 1000
+            Stopping criterion: Optimal solution found
+            Running Time: 0.07130002975463867 seconds
+            
+
+            
+            ########## Problem 16 ##########
+            Starting Point: [0.08051546 0.35994788 0.49642531 0.03098176 0.36846375 0.78685202
+ 0.92924168 0.43239747 0.99656841 0.60861914 0.4210074  0.55997979
+ 0.53681678 0.47523272 0.42720263 0.82588248 0.21862753 0.97786556
+ 0.09375997 0.46027619]
+
+            Solution: [ 0.49999998  0.49999998  0.99999995  0.99999995  0.99999995  0.99999995
+  0.49999998  0.49999998  0.99999995  0.99999995  0.99999995 -3.74999987
+ -3.74999982  0.99999995 -3.7499998   0.99999995  0.99999995 -3.74999982
+  0.99999995  0.99999995]
+            Number of Iterations: 1000
+            Stopping criterion: Optimal solution found
+            Running Time: 0.1156001091003418 seconds
+            Unconstrained Problem: [ 1. -2.  0.  0.  0.  0.  3. -4.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+  0.  0.]
+
+        
+            ########## Problem 17 ##########
+            Starting Point: [0.47248928 0.76256415 0.03780712 0.98700254 0.49066504 0.47674066
+ 0.3602018  0.64494036 0.05074435 0.93243173 0.86471854 0.89461991
+ 0.4537105  0.16198601 0.2170556  0.65973999 0.88902419 0.93125295
+ 0.96565444 0.7331945 ]
+
+            Solution: [ 4.99999998e-01  4.99999998e-01  9.99999990e-01  9.99999990e-01
+  9.99999990e-01  9.99999990e-01  4.99999998e-01  4.99999998e-01
+  9.99999990e-01  9.99999990e-01 -2.22044605e-16  0.00000000e+00
+  9.99999990e-01  0.00000000e+00  9.99999990e-01  9.99999990e-01
+  0.00000000e+00  0.00000000e+00  0.00000000e+00  2.22044605e-16]
+            Number of Iterations: 18
+            Stopping criterion: Optimal solution found
+            Running Time: 0.0025207996368408203 seconds
+            Unconstrained Problem: [ 1. -2.  0.  0.  0.  0.  3. -4.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+  0.  0.]
+
+        
+            ########## Problem 18 ##########
+            Starting Point: [0.79689849 0.40015114 0.30364373 0.26438021 0.17523399 0.12535176
+ 0.88882264 0.54007362 0.15080303 0.21926287 0.46489766 0.04126761
+ 0.51623235 0.6921697  0.39131377 0.75525736 0.22586823 0.79491398
+ 0.64304819 0.5881214 ]
+
+            Solution: [ 0.49999999  0.49999999 -1.71428567 -1.71428567  0.99999997 -1.71428569
+  0.49999999  0.49999999 -1.71428568 -1.71428567 -1.71428565  0.99999997
+  0.99999997  0.99999997  0.99999997  0.99999997 -1.71428567  0.99999997
+  0.99999997  0.99999997]
+            Number of Iterations: 1000
+            Stopping criterion: Optimal solution found
+            Running Time: 0.10897707939147949 seconds
+            Unconstrained Problem: [ 1. -2.  0.  0.  0.  0.  3. -4.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+  0.  0.]
+
+        
+            ########## Problem 19 ##########
+            Starting Point: [0.33912082 0.23910235 0.51957845 0.94736983 0.51599397 0.997283
+ 0.02813515 0.80250601 0.47721955 0.43969789 0.12033782 0.21918872
+ 0.51049081 0.12667987 0.04868668 0.71690702 0.96265881 0.58302515
+ 0.80805684 0.93011584]
+
+            Solution: [ 0.49999999  0.49999999 -1.71428567 -1.71428567  0.99999997 -1.71428569
+  0.49999999  0.49999999 -1.71428568 -1.71428567 -1.71428565  0.99999997
+  0.99999997  0.99999997  0.99999997  0.99999997 -1.71428567  0.99999997
+  0.99999997  0.99999997]
+            Number of Iterations: 1000
+            Stopping criterion: Optimal solution found
+            Running Time: 0.12303018569946289 seconds
+            Unconstrained Problem: [ 1. -2.  0.  0.  0.  0.  3. -4.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+  0.  0.]
+
+        
+            ########## Problem 20 ##########
+            Starting Point: [0.46024792 0.72909391 0.81388416 0.12471804 0.51762099 0.07913272
+ 0.58768957 0.30173407 0.96844238 0.44006219 0.1293761  0.87567354
+ 0.17161342 0.982871   0.69755381 0.07202835 0.50437348 0.78641044
+ 0.86264862 0.89729794]
+
+            Solution: [ 0.49999999  0.49999999 -1.71428567 -1.71428567  0.99999997 -1.71428569
+  0.49999999  0.49999999 -1.71428568 -1.71428567 -1.71428565  0.99999997
+  0.99999997  0.99999997  0.99999997  0.99999997 -1.71428567  0.99999997
+  0.99999997  0.99999997]
+            Number of Iterations: 1000
+            Stopping criterion: Optimal solution found
+            Running Time: 0.11107683181762695 seconds
+            Unconstrained Problem: [ 1. -2.  0.  0.  0.  0.  3. -4.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+  0.  0.]
+
+        

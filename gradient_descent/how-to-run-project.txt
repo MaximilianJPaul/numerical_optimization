@@ -1,0 +1,5 @@
+To execute the project, you just need to run 
+
+    python3 main.py
+
+in the command prompt. All the results will be available in report.txt

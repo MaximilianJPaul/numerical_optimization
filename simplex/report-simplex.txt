@@ -1,0 +1,253 @@
+Group: 36
+Members: Maximilian Voshchepynets (k11946886)
+
+
+Simplex Method Results on Feasible Starting Points
+
+
+    
+        ########## Problem 1 ##########
+        Method: Simplex
+        Starting Point: Feasible
+
+        Number of iterations: 1
+        Final Iterate: [0. 2.]
+        Stopping Criteria: Optimal solution found
+        Real Solution: [0. 2.]
+        Running Time: 0.0001938343048095703 seconds
+
+
+        
+        ########## Problem 2 ##########
+        Method: Simplex
+        Starting Point: Feasible
+
+        Number of iterations: 2
+        Final Iterate: [1.8 0.4]
+        Stopping Criteria: Optimal solution found
+        Real Solution: [1.8 0.4]
+        Running Time: 0.00010824203491210938 seconds
+
+
+        
+        ########## Problem 3 ##########
+        Method: Simplex
+        Starting Point: Feasible
+
+        Number of iterations: 1
+        Final Iterate: [2. 1.]
+        Stopping Criteria: Optimal solution found
+        Real Solution: [0. 1.]
+        Running Time: 7.915496826171875e-05 seconds
+
+
+        
+        ########## Problem 4 ##########
+        Method: Simplex
+        Starting Point: Feasible
+
+        Number of iterations: 2
+        Final Iterate: [0.6 0.8]
+        Stopping Criteria: Optimal solution found
+        Real Solution: [0.6 0.8]
+        Running Time: 8.392333984375e-05 seconds
+
+
+        
+        ########## Problem 5 ##########
+        Method: Simplex
+        Starting Point: Feasible
+
+        Number of iterations: 2
+        Final Iterate: [0.8 0.6]
+        Stopping Criteria: Optimal solution found
+        Real Solution: [0.8 0.6]
+        Running Time: 8.0108642578125e-05 seconds
+
+
+        
+        ########## Problem 6 ##########
+        Method: Simplex
+        Starting Point: Feasible
+
+        Number of iterations: 1
+        Final Iterate: [0. 0. 0. 0. 0. 0. 0. 0. 0. 3.]
+        Stopping Criteria: Optimal solution found
+        Real Solution: [0. 0. 0. 0. 0. 5. 0. 0. 0. 0.]
+        Running Time: 9.608268737792969e-05 seconds
+
+
+        
+        ########## Problem 7 ##########
+        Method: Simplex
+        Starting Point: Feasible
+
+        Number of iterations: 2
+        Final Iterate: [0.         0.         2.42424242 0.         0.         0.
+ 0.         0.         5.3030303  0.        ]
+        Stopping Criteria: Optimal solution found
+        Real Solution: [0.         0.         0.         0.         0.         4.84848485
+ 0.         0.         2.87878788 0.        ]
+        Running Time: 9.894371032714844e-05 seconds
+
+
+        
+        ########## Problem 8 ##########
+        Method: Simplex
+        Starting Point: Feasible
+
+        Number of iterations: 3
+        Final Iterate: [0.         0.         0.         0.         0.         0.
+ 5.15151515 0.         0.         3.93939394]
+        Stopping Criteria: Optimal solution found
+        Real Solution: [0.         0.         0.         0.         0.         0.
+ 5.15151515 0.         0.         3.93939394]
+        Running Time: 0.00011110305786132812 seconds
+
+
+        
+        ########## Problem 9 ##########
+        Method: Simplex
+        Starting Point: Feasible
+
+        Number of iterations: 3
+        Final Iterate: [0.         1.51515152 0.         0.         0.         0.
+ 0.         7.12121212 0.         0.        ]
+        Stopping Criteria: Optimal solution found
+        Real Solution: [0.         1.51515152 0.         0.         0.         0.
+ 0.         7.12121212 0.         0.        ]
+        Running Time: 0.00011205673217773438 seconds
+
+
+        
+        ########## Problem 10 ##########
+        Method: Simplex
+        Starting Point: Feasible
+
+        Number of iterations: 2
+        Final Iterate: [1.47727273 0.         0.         0.         7.61363636 1.47727273
+ 0.         0.         0.         7.61363636]
+        Stopping Criteria: Optimal solution found
+        Real Solution: [0.         1.96969697 0.         0.         7.12121212 0.
+ 0.         0.         0.         0.        ]
+        Running Time: 0.00010204315185546875 seconds
+
+
+        
+
+
+
+    Simplex Method Results on Infeasible Starting Points
+
+
+    
+        ########## Problem 11 ##########
+        Method: Simplex
+        Starting Point: Infeasible
+
+        Number of iterations: 10001
+        Final Iterate: [3. 3.]
+        Stopping Criteria: Optimal solution found
+        Running Time: 0.6332719326019287 seconds
+
+
+        
+        ########## Problem 12 ##########
+        Method: Simplex
+        Starting Point: Infeasible
+
+        Number of iterations: 20000
+        Final Iterate: [3. 2.]
+        Stopping Criteria: Optimal solution found
+        Running Time: 1.1780688762664795 seconds
+
+
+        
+        ########## Problem 13 ##########
+        Method: Simplex
+        Starting Point: Infeasible
+
+        Number of iterations: 10001
+        Final Iterate: [3. 3.]
+        Stopping Criteria: Optimal solution found
+        Running Time: 0.5927689075469971 seconds
+
+
+        
+        ########## Problem 14 ##########
+        Method: Simplex
+        Starting Point: Infeasible
+
+        Number of iterations: 2
+        Final Iterate: [2. 2.]
+        Stopping Criteria: Optimal solution found
+        Running Time: 0.00011229515075683594 seconds
+
+
+        
+        ########## Problem 15 ##########
+        Method: Simplex
+        Starting Point: Infeasible
+
+        Number of iterations: 20000
+        Final Iterate: [2. 2.]
+        Stopping Criteria: Optimal solution found
+        Running Time: 1.180116891860962 seconds
+
+
+        
+        ########## Problem 16 ##########
+        Method: Simplex
+        Starting Point: Infeasible
+
+        Number of iterations: 2
+        Final Iterate: [1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+        Stopping Criteria: Optimal solution found
+        Running Time: 0.00013518333435058594 seconds
+
+
+        
+        ########## Problem 17 ##########
+        Method: Simplex
+        Starting Point: Infeasible
+
+        Number of iterations: 2
+        Final Iterate: [2. 2. 2. 2. 2. 2. 2. 2. 2. 2.]
+        Stopping Criteria: Optimal solution found
+        Running Time: 0.00010895729064941406 seconds
+
+
+        
+        ########## Problem 18 ##########
+        Method: Simplex
+        Starting Point: Infeasible
+
+        Number of iterations: 2
+        Final Iterate: [3. 3. 3. 3. 3. 3. 3. 3. 3. 3.]
+        Stopping Criteria: Optimal solution found
+        Running Time: 0.0001049041748046875 seconds
+
+
+        
+        ########## Problem 19 ##########
+        Method: Simplex
+        Starting Point: Infeasible
+
+        Number of iterations: 2
+        Final Iterate: [4. 4. 4. 4. 4. 4. 4. 4. 4. 4.]
+        Stopping Criteria: Optimal solution found
+        Running Time: 0.00010132789611816406 seconds
+
+
+        
+        ########## Problem 20 ##########
+        Method: Simplex
+        Starting Point: Infeasible
+
+        Number of iterations: 2
+        Final Iterate: [5. 5. 5. 5. 5. 5. 5. 5. 5. 5.]
+        Stopping Criteria: Optimal solution found
+        Running Time: 9.870529174804688e-05 seconds
+
+
+        

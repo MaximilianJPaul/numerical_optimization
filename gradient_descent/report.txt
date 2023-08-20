@@ -1,0 +1,1218 @@
+
+Group 36
+
+Members: {
+    "Maximilian Voshchepynets": k11946886
+}
+
+Solved Task: {
+    1: True,
+    2: True,
+    3: True,
+    4: True,
+    5: True,
+    6: True
+}
+
+
+    ########## Run 1 ##########
+    Algorithm: Newton Method
+    Function: Function 1: Rosenbrock
+    Initial Point: [1.2 1.2]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 8
+    Final Iterate x_k: [1. 1.]
+    Size ||∇f(xk)||: 1.4360392201267428e-11
+    Distance to the solution: 1.7227828323731315e-13
+
+    
+    ########## Run 2 ##########
+    Algorithm: Newton Method
+    Function: Function 1: Rosenbrock
+    Initial Point: [1.2 1.2]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 8
+    Final Iterate x_k: [1. 1.]
+    Size ||∇f(xk)||: 5.085615260667598e-10
+    Distance to the solution: 1.6249032035860046e-11
+
+    
+    ########## Run 3 ##########
+    Algorithm: Newton Method
+    Function: Function 1: Rosenbrock
+    Initial Point: [-1.2  1. ]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 21
+    Final Iterate x_k: [1. 1.]
+    Size ||∇f(xk)||: 4.473328123560842e-10
+    Distance to the solution: 1.35118656593187e-10
+
+    
+    ########## Run 4 ##########
+    Algorithm: Newton Method
+    Function: Function 1: Rosenbrock
+    Initial Point: [-1.2  1. ]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 20
+    Final Iterate x_k: [0.99999979 0.99999957]
+    Size ||∇f(xk)||: 3.4695129559456716e-07
+    Distance to the solution: 4.80357554668146e-07
+
+    
+    ########## Run 5 ##########
+    Algorithm: Newton Method
+    Function: Function 1: Rosenbrock
+    Initial Point: [0.2 0.8]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 13
+    Final Iterate x_k: [1.         0.99999999]
+    Size ||∇f(xk)||: 1.0093951547602426e-07
+    Distance to the solution: 8.04079223426681e-09
+
+    
+    ########## Run 6 ##########
+    Algorithm: Newton Method
+    Function: Function 1: Rosenbrock
+    Initial Point: [0.2 0.8]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 13
+    Final Iterate x_k: [0.99999998 0.99999996]
+    Size ||∇f(xk)||: 1.0466290597439918e-07
+    Distance to the solution: 4.265076071321147e-08
+
+    
+    ########## Run 7 ##########
+    Algorithm: Newton Method
+    Function: Function 2
+    Initial Point: [-0.2  1.2]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 999
+    Final Iterate x_k: [-0.15716519  0.72412715]
+    Size ||∇f(xk)||: 25.51276160184437
+    Distance to the solution: 0.31750075058672267
+
+    
+    ########## Run 8 ##########
+    Algorithm: Newton Method
+    Function: Function 2
+    Initial Point: [-0.2  1.2]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 999
+    Final Iterate x_k: [-0.15714388  0.72419818]
+    Size ||∇f(xk)||: 25.51406291198988
+    Distance to the solution: 0.3174284814525931
+
+    
+    ########## Run 9 ##########
+    Algorithm: Newton Method
+    Function: Function 2
+    Initial Point: [3.8 0.1]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 999
+    Final Iterate x_k: [1.45086007 0.06064898]
+    Size ||∇f(xk)||: 33.68962752643033
+    Distance to the solution: 1.7284025212479077
+
+    
+    ########## Run 10 ##########
+    Algorithm: Newton Method
+    Function: Function 2
+    Initial Point: [3.8 0.1]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 999
+    Final Iterate x_k: [1.45050388 0.06066314]
+    Size ||∇f(xk)||: 33.679166180071256
+    Distance to the solution: 1.7280958413738614
+
+    
+    ########## Run 11 ##########
+    Algorithm: Newton Method
+    Function: Function 2
+    Initial Point: [1.9 0.6]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 999
+    Final Iterate x_k: [0.4366814 0.1092978]
+    Size ||∇f(xk)||: 0.0019508762973570954
+    Distance to the solution: 0.9919884349152864
+
+    
+    ########## Run 12 ##########
+    Algorithm: Newton Method
+    Function: Function 2
+    Initial Point: [1.9 0.6]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 999
+    Final Iterate x_k: [0.43668087 0.109298  ]
+    Size ||∇f(xk)||: 0.001954142901096348
+    Distance to the solution: 0.9919880240156428
+
+    
+    ########## Run 13 ##########
+    Algorithm: Newton Method with Hessian Modification
+    Function: Function 1: Rosenbrock
+    Initial Point: [1.2 1.2]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 8
+    Final Iterate x_k: [1. 1.]
+    Size ||∇f(xk)||: 8.39470951775577e-10
+    Distance to the solution: 2.095557843408851e-09
+
+    
+    ########## Run 14 ##########
+    Algorithm: Newton Method with Hessian Modification
+    Function: Function 1: Rosenbrock
+    Initial Point: [1.2 1.2]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 8
+    Final Iterate x_k: [1. 1.]
+    Size ||∇f(xk)||: 1.6658399069092114e-09
+    Distance to the solution: 2.951738096528865e-09
+
+    
+    ########## Run 15 ##########
+    Algorithm: Newton Method with Hessian Modification
+    Function: Function 1: Rosenbrock
+    Initial Point: [-1.2  1. ]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 21
+    Final Iterate x_k: [1. 1.]
+    Size ||∇f(xk)||: 4.753762204067148e-10
+    Distance to the solution: 1.1890822227328711e-09
+
+    
+    ########## Run 16 ##########
+    Algorithm: Newton Method with Hessian Modification
+    Function: Function 1: Rosenbrock
+    Initial Point: [-1.2  1. ]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 21
+    Final Iterate x_k: [0.99999999 0.99999999]
+    Size ||∇f(xk)||: 6.7325293799671624e-09
+    Distance to the solution: 1.654325278524315e-08
+
+    
+    ########## Run 17 ##########
+    Algorithm: Newton Method with Hessian Modification
+    Function: Function 1: Rosenbrock
+    Initial Point: [0.2 0.8]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 13
+    Final Iterate x_k: [0.99999995 0.99999989]
+    Size ||∇f(xk)||: 1.5915661675719924e-07
+    Distance to the solution: 1.1887381731638238e-07
+
+    
+    ########## Run 18 ##########
+    Algorithm: Newton Method with Hessian Modification
+    Function: Function 1: Rosenbrock
+    Initial Point: [0.2 0.8]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 13
+    Final Iterate x_k: [0.99999992 0.99999984]
+    Size ||∇f(xk)||: 1.7425909155826325e-07
+    Distance to the solution: 1.7621736165751042e-07
+
+    
+    ########## Run 19 ##########
+    Algorithm: Newton Method with Hessian Modification
+    Function: Function 2
+    Initial Point: [-0.2  1.2]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 999
+    Final Iterate x_k: [-0.15717098  0.7241098 ]
+    Size ||∇f(xk)||: 25.512540624653656
+    Distance to the solution: 0.31751869218558376
+
+    
+    ########## Run 20 ##########
+    Algorithm: Newton Method with Hessian Modification
+    Function: Function 2
+    Initial Point: [-0.2  1.2]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 999
+    Final Iterate x_k: [-0.15714967  0.72418084]
+    Size ||∇f(xk)||: 25.51384226532938
+    Distance to the solution: 0.31744641654280503
+
+    
+    ########## Run 21 ##########
+    Algorithm: Newton Method with Hessian Modification
+    Function: Function 2
+    Initial Point: [3.8 0.1]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 999
+    Final Iterate x_k: [1.45056402 0.06066793]
+    Size ||∇f(xk)||: 33.68552912644174
+    Distance to the solution: 1.7281437154352346
+
+    
+    ########## Run 22 ##########
+    Algorithm: Newton Method with Hessian Modification
+    Function: Function 2
+    Initial Point: [3.8 0.1]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 999
+    Final Iterate x_k: [1.45095433 0.06063913]
+    Size ||∇f(xk)||: 33.68848327028469
+    Distance to the solution: 1.7284870032720923
+
+    
+    ########## Run 23 ##########
+    Algorithm: Newton Method with Hessian Modification
+    Function: Function 2
+    Initial Point: [1.9 0.6]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 999
+    Final Iterate x_k: [0.43668127 0.10929787]
+    Size ||∇f(xk)||: 0.0019523931267055599
+    Distance to the solution: 0.9919883167802559
+
+    
+    ########## Run 24 ##########
+    Algorithm: Newton Method with Hessian Modification
+    Function: Function 2
+    Initial Point: [1.9 0.6]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 999
+    Final Iterate x_k: [0.43668123 0.1092978 ]
+    Size ||∇f(xk)||: 0.0019491811992789188
+    Distance to the solution: 0.9919883608684855
+
+    
+    ########## Run 25 ##########
+    Algorithm: The Fletcher-Reevers
+    Function: Function 1: Rosenbrock
+    Initial Point: [1.2 1.2]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 35
+    Final Iterate x_k: [1.00003896 1.00007772]
+    Size ||∇f(xk)||: 0.0001659984681606708
+    Distance to the solution: 8.694299998407628e-05
+
+    
+    ########## Run 26 ##########
+    Algorithm: The Fletcher-Reevers
+    Function: Function 1: Rosenbrock
+    Initial Point: [1.2 1.2]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 43
+    Final Iterate x_k: [0.99994312 0.99988606]
+    Size ||∇f(xk)||: 5.3903324013363966e-05
+    Distance to the solution: 0.00012735119934949974
+
+    
+    ########## Run 27 ##########
+    Algorithm: The Fletcher-Reevers
+    Function: Function 1: Rosenbrock
+    Initial Point: [-1.2  1. ]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 125
+    Final Iterate x_k: [1.31088504 1.67300294]
+    Size ||∇f(xk)||: 26.06978160884228
+    Distance to the solution: 0.7413382926482672
+
+    
+    ########## Run 28 ##########
+    Algorithm: The Fletcher-Reevers
+    Function: Function 1: Rosenbrock
+    Initial Point: [-1.2  1. ]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 64
+    Final Iterate x_k: [1.62909456 2.60371608]
+    Size ||∇f(xk)||: 35.44551728158455
+    Distance to the solution: 1.7226912731009791
+
+    
+    ########## Run 29 ##########
+    Algorithm: The Fletcher-Reevers
+    Function: Function 1: Rosenbrock
+    Initial Point: [0.2 0.8]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 48
+    Final Iterate x_k: [1.00012749 1.0002561 ]
+    Size ||∇f(xk)||: 0.0002859654419588462
+    Distance to the solution: 0.0002860797912364306
+
+    
+    ########## Run 30 ##########
+    Algorithm: The Fletcher-Reevers
+    Function: Function 1: Rosenbrock
+    Initial Point: [0.2 0.8]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 53
+    Final Iterate x_k: [0.99809303 0.99618349]
+    Size ||∇f(xk)||: 0.0018232450613110578
+    Distance to the solution: 0.0042664143108778535
+
+    
+    ########## Run 31 ##########
+    Algorithm: The Fletcher-Reevers
+    Function: Function 2
+    Initial Point: [-0.2  1.2]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 86
+    Final Iterate x_k: [1.63271366e-06 1.00009606e+00]
+    Size ||∇f(xk)||: 0.0010304541633803157
+    Distance to the solution: 9.60716764466113e-05
+
+    
+    ########## Run 32 ##########
+    Algorithm: The Fletcher-Reevers
+    Function: Function 2
+    Initial Point: [-0.2  1.2]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 86
+    Final Iterate x_k: [1.63193180e-06 1.00009603e+00]
+    Size ||∇f(xk)||: 0.0010301107289057909
+    Distance to the solution: 9.60461732785192e-05
+
+    
+    ########## Run 33 ##########
+    Algorithm: The Fletcher-Reevers
+    Function: Function 2
+    Initial Point: [3.8 0.1]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 40
+    Final Iterate x_k: [ 4.00423976e+00 -1.86844019e-06]
+    Size ||∇f(xk)||: 0.0021798095098922513
+    Distance to the solution: 0.004239762949416085
+
+    
+    ########## Run 34 ##########
+    Algorithm: The Fletcher-Reevers
+    Function: Function 2
+    Initial Point: [3.8 0.1]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 46
+    Final Iterate x_k: [3.99693821e+00 1.48224661e-06]
+    Size ||∇f(xk)||: 0.0018218036271451293
+    Distance to the solution: 0.0030617920513548577
+
+    
+    ########## Run 35 ##########
+    Algorithm: The Fletcher-Reevers
+    Function: Function 2
+    Initial Point: [1.9 0.6]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 21
+    Final Iterate x_k: [-1.18868234e-07  1.00000209e+00]
+    Size ||∇f(xk)||: 3.5577567357060796e-05
+    Distance to the solution: 2.088453428852599e-06
+
+    
+    ########## Run 36 ##########
+    Algorithm: The Fletcher-Reevers
+    Function: Function 2
+    Initial Point: [1.9 0.6]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 21
+    Final Iterate x_k: [-1.30103842e-07  1.00000240e+00]
+    Size ||∇f(xk)||: 3.916965212127581e-05
+    Distance to the solution: 2.3993217293642513e-06
+
+    
+    ########## Run 37 ##########
+    Algorithm: The Polak Ribiere
+    Function: Function 1: Rosenbrock
+    Initial Point: [1.2 1.2]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 1
+    Final Iterate x_k: [1.08710938 1.246875  ]
+    Size ||∇f(xk)||: 30.985565191163456
+    Distance to the solution: 0.26179249194331494
+
+    
+    ########## Run 38 ##########
+    Algorithm: The Polak Ribiere
+    Function: Function 1: Rosenbrock
+    Initial Point: [1.2 1.2]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 1
+    Final Iterate x_k: [1.08710938 1.246875  ]
+    Size ||∇f(xk)||: 30.985565174114633
+    Distance to the solution: 0.26179249194357673
+
+    
+    ########## Run 39 ##########
+    Algorithm: The Polak Ribiere
+    Function: Function 1: Rosenbrock
+    Initial Point: [-1.2  1. ]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 1
+    Final Iterate x_k: [-0.98945312  1.0859375 ]
+    Size ||∇f(xk)||: 43.89852092322499
+    Distance to the solution: 1.9913083614745646
+
+    
+    ########## Run 40 ##########
+    Algorithm: The Polak Ribiere
+    Function: Function 1: Rosenbrock
+    Initial Point: [-1.2  1. ]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 1
+    Final Iterate x_k: [-0.98945313  1.0859375 ]
+    Size ||∇f(xk)||: 43.8985209035991
+    Distance to the solution: 1.9913083614963816
+
+    
+    ########## Run 41 ##########
+    Algorithm: The Polak Ribiere
+    Function: Function 1: Rosenbrock
+    Initial Point: [0.2 0.8]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 6
+    Final Iterate x_k: [0.98377935 0.96455555]
+    Size ||∇f(xk)||: 1.4129499476915774
+    Distance to the solution: 0.038979723808759574
+
+    
+    ########## Run 42 ##########
+    Algorithm: The Polak Ribiere
+    Function: Function 1: Rosenbrock
+    Initial Point: [0.2 0.8]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 6
+    Final Iterate x_k: [0.98377935 0.96455555]
+    Size ||∇f(xk)||: 1.4129502192610472
+    Distance to the solution: 0.03897972138040463
+
+    
+    ########## Run 43 ##########
+    Algorithm: The Polak Ribiere
+    Function: Function 2
+    Initial Point: [-0.2  1.2]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 1
+    Final Iterate x_k: [0.13632812 1.1390625 ]
+    Size ||∇f(xk)||: 53.96786615958283
+    Distance to the solution: 0.1947401770879999
+
+    
+    ########## Run 44 ##########
+    Algorithm: The Polak Ribiere
+    Function: Function 2
+    Initial Point: [-0.2  1.2]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 1
+    Final Iterate x_k: [0.13632812 1.1390625 ]
+    Size ||∇f(xk)||: 53.967866159520725
+    Distance to the solution: 0.19474017708700397
+
+    
+    ########## Run 45 ##########
+    Algorithm: The Polak Ribiere
+    Function: Function 2
+    Initial Point: [3.8 0.1]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 1
+    Final Iterate x_k: [ 3.79719238 -0.00585937]
+    Size ||∇f(xk)||: 25.79791474905326
+    Distance to the solution: 0.20289224200215797
+
+    
+    ########## Run 46 ##########
+    Algorithm: The Polak Ribiere
+    Function: Function 2
+    Initial Point: [3.8 0.1]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 1
+    Final Iterate x_k: [ 3.79719238 -0.00585937]
+    Size ||∇f(xk)||: 25.79791474813601
+    Distance to the solution: 0.20289224200243605
+
+    
+    ########## Run 47 ##########
+    Algorithm: The Polak Ribiere
+    Function: Function 2
+    Initial Point: [1.9 0.6]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 8
+    Final Iterate x_k: [-0.01580709  0.95945799]
+    Size ||∇f(xk)||: 4.463444458677962
+    Distance to the solution: 0.04351457924212689
+
+    
+    ########## Run 48 ##########
+    Algorithm: The Polak Ribiere
+    Function: Function 2
+    Initial Point: [1.9 0.6]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 8
+    Final Iterate x_k: [-0.01580708  0.95945827]
+    Size ||∇f(xk)||: 4.463442339553283
+    Distance to the solution: 0.043514313671024506
+
+    
+    ########## Run 49 ##########
+    Algorithm: BFGS
+    Function: Function 1: Rosenbrock
+    Initial Point: [1.2 1.2]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 12
+    Final Iterate x_k: [1.         1.00000001]
+    Size ||∇f(xk)||: 4.399163394005116e-07
+    Distance to the solution: 9.974281489618386e-09
+
+    
+    ########## Run 50 ##########
+    Algorithm: BFGS
+    Function: Function 1: Rosenbrock
+    Initial Point: [1.2 1.2]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 12
+    Final Iterate x_k: [1.         1.00000001]
+    Size ||∇f(xk)||: 4.399165337460771e-07
+    Distance to the solution: 9.527597517139616e-09
+
+    
+    ########## Run 51 ##########
+    Algorithm: BFGS
+    Function: Function 1: Rosenbrock
+    Initial Point: [-1.2  1. ]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 34
+    Final Iterate x_k: [1.         0.99999999]
+    Size ||∇f(xk)||: 8.834628308482201e-08
+    Distance to the solution: 1.0864793722472072e-08
+
+    
+    ########## Run 52 ##########
+    Algorithm: BFGS
+    Function: Function 1: Rosenbrock
+    Initial Point: [-1.2  1. ]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 34
+    Final Iterate x_k: [0.99999999 0.99999999]
+    Size ||∇f(xk)||: 1.3882223947934263e-07
+    Distance to the solution: 1.4491510671622659e-08
+
+    
+    ########## Run 53 ##########
+    Algorithm: BFGS
+    Function: Function 1: Rosenbrock
+    Initial Point: [0.2 0.8]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 19
+    Final Iterate x_k: [1. 1.]
+    Size ||∇f(xk)||: 2.279322710954367e-07
+    Distance to the solution: 1.7945738187364971e-09
+
+    
+    ########## Run 54 ##########
+    Algorithm: BFGS
+    Function: Function 1: Rosenbrock
+    Initial Point: [0.2 0.8]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 19
+    Final Iterate x_k: [1. 1.]
+    Size ||∇f(xk)||: 2.2765294156321627e-07
+    Distance to the solution: 2.2369468418690553e-09
+
+    
+    ########## Run 55 ##########
+    Algorithm: BFGS
+    Function: Function 2
+    Initial Point: [-0.2  1.2]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 11
+    Final Iterate x_k: [-1.56119056e-11  9.99999998e-01]
+    Size ||∇f(xk)||: 1.6316098696851127e-08
+    Distance to the solution: 1.7587608178262824e-09
+
+    
+    ########## Run 56 ##########
+    Algorithm: BFGS
+    Function: Function 2
+    Initial Point: [-0.2  1.2]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 11
+    Final Iterate x_k: [-1.56119044e-11  9.99999998e-01]
+    Size ||∇f(xk)||: 1.6316098083428236e-08
+    Distance to the solution: 1.7587608178150547e-09
+
+    
+    ########## Run 57 ##########
+    Algorithm: BFGS
+    Function: Function 2
+    Initial Point: [3.8 0.1]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 7
+    Final Iterate x_k: [4.00000002e+00 1.39310617e-10]
+    Size ||∇f(xk)||: 7.034486699914341e-07
+    Distance to the solution: 1.679543394203959e-08
+
+    
+    ########## Run 58 ##########
+    Algorithm: BFGS
+    Function: Function 2
+    Initial Point: [3.8 0.1]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 7
+    Final Iterate x_k: [4.00000002e+00 1.39310628e-10]
+    Size ||∇f(xk)||: 7.03448728944079e-07
+    Distance to the solution: 1.6795435718429502e-08
+
+    
+    ########## Run 59 ##########
+    Algorithm: BFGS
+    Function: Function 2
+    Initial Point: [1.9 0.6]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 20
+    Final Iterate x_k: [6.50672718e-12 1.00000000e+00]
+    Size ||∇f(xk)||: 3.825014087403137e-09
+    Distance to the solution: 3.440350526324367e-10
+
+    
+    ########## Run 60 ##########
+    Algorithm: BFGS
+    Function: Function 2
+    Initial Point: [1.9 0.6]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 20
+    Final Iterate x_k: [6.50110042e-12 1.00000000e+00]
+    Size ||∇f(xk)||: 3.82280161443393e-09
+    Distance to the solution: 3.438904210432007e-10
+
+    
+    ########## Run 61 ##########
+    Algorithm: SR1
+    Function: Function 1: Rosenbrock
+    Initial Point: [1.2 1.2]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 999
+    Final Iterate x_k: [1.11180556 1.23654137]
+    Size ||∇f(xk)||: 0.09188701077310296
+    Distance to the solution: 0.26163390831217526
+
+    
+    ########## Run 62 ##########
+    Algorithm: SR1
+    Function: Function 1: Rosenbrock
+    Initial Point: [1.2 1.2]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 999
+    Final Iterate x_k: [1.11180555 1.23654135]
+    Size ||∇f(xk)||: 0.09188700405949857
+    Distance to the solution: 0.261633890892129
+
+    
+    ########## Run 63 ##########
+    Algorithm: SR1
+    Function: Function 1: Rosenbrock
+    Initial Point: [-1.2  1. ]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 999
+    Final Iterate x_k: [-1.02996729  1.06894221]
+    Size ||∇f(xk)||: 1.7740968818466505
+    Distance to the solution: 2.031137672086672
+
+    
+    ########## Run 64 ##########
+    Algorithm: SR1
+    Function: Function 1: Rosenbrock
+    Initial Point: [-1.2  1. ]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 999
+    Final Iterate x_k: [-1.02996729  1.06894221]
+    Size ||∇f(xk)||: 1.774096881381043
+    Distance to the solution: 2.0311376720905456
+
+    
+    ########## Run 65 ##########
+    Algorithm: SR1
+    Function: Function 1: Rosenbrock
+    Initial Point: [0.2 0.8]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 999
+    Final Iterate x_k: [0.45591284 0.20518112]
+    Size ||∇f(xk)||: 0.8041394284766279
+    Distance to the solution: 0.9632070885594209
+
+    
+    ########## Run 66 ##########
+    Algorithm: SR1
+    Function: Function 1: Rosenbrock
+    Initial Point: [0.2 0.8]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 999
+    Final Iterate x_k: [0.4824121  0.23007811]
+    Size ||∇f(xk)||: 0.7451335890762796
+    Distance to the solution: 0.9277267659318836
+
+    
+    ########## Run 67 ##########
+    Algorithm: SR1
+    Function: Function 2
+    Initial Point: [-0.2  1.2]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 999
+    Final Iterate x_k: [-8.60206119e-04  1.15519649e+00]
+    Size ||∇f(xk)||: 1.2405854313787232
+    Distance to the solution: 0.15519887843457647
+
+    
+    ########## Run 68 ##########
+    Algorithm: SR1
+    Function: Function 2
+    Initial Point: [-0.2  1.2]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 999
+    Final Iterate x_k: [-7.74378831e-04  1.15519673e+00]
+    Size ||∇f(xk)||: 1.240232928333938
+    Distance to the solution: 0.15519866537770416
+
+    
+    ########## Run 69 ##########
+    Algorithm: SR1
+    Function: Function 2
+    Initial Point: [3.8 0.1]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 999
+    Final Iterate x_k: [ 4.20188616e+00 -7.59237058e-05]
+    Size ||∇f(xk)||: 0.10080361536049996
+    Distance to the solution: 0.20188617210839882
+
+    
+    ########## Run 70 ##########
+    Algorithm: SR1
+    Function: Function 2
+    Initial Point: [3.8 0.1]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 999
+    Final Iterate x_k: [3.79734011e+00 9.34479979e-05]
+    Size ||∇f(xk)||: 0.10113361552641072
+    Distance to the solution: 0.20265991557165405
+
+    
+    ########## Run 71 ##########
+    Algorithm: SR1
+    Function: Function 2
+    Initial Point: [1.9 0.6]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 999
+    Final Iterate x_k: [1.5275994  0.00701288]
+    Size ||∇f(xk)||: 1.1998163195100695
+    Distance to the solution: 1.8219723772459693
+
+    
+    ########## Run 72 ##########
+    Algorithm: SR1
+    Function: Function 2
+    Initial Point: [1.9 0.6]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 999
+    Final Iterate x_k: [1.52883425 0.00697171]
+    Size ||∇f(xk)||: 1.1993485379948645
+    Distance to the solution: 1.8230302669956675
+
+    
+    ########## Run 73 ##########
+    Algorithm: SR1 within the trust-region framework
+    Function: Function 1: Rosenbrock
+    Initial Point: [1.2 1.2]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 999
+    Final Iterate x_k: [1.2 1.2]
+    Size ||∇f(xk)||: 125.16932531574977
+    Distance to the solution: 0.28284271247461895
+
+    
+    ########## Run 74 ##########
+    Algorithm: SR1 within the trust-region framework
+    Function: Function 1: Rosenbrock
+    Initial Point: [1.2 1.2]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 999
+    Final Iterate x_k: [1.2 1.2]
+    Size ||∇f(xk)||: 125.16932530315574
+    Distance to the solution: 0.28284271247461895
+
+    
+    ########## Run 75 ##########
+    Algorithm: SR1 within the trust-region framework
+    Function: Function 1: Rosenbrock
+    Initial Point: [-1.2  1. ]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 999
+    Final Iterate x_k: [-1.2  1. ]
+    Size ||∇f(xk)||: 232.86768775422664
+    Distance to the solution: 2.2
+
+    
+    ########## Run 76 ##########
+    Algorithm: SR1 within the trust-region framework
+    Function: Function 1: Rosenbrock
+    Initial Point: [-1.2  1. ]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 999
+    Final Iterate x_k: [-1.2  1. ]
+    Size ||∇f(xk)||: 232.86768773272496
+    Distance to the solution: 2.2
+
+    
+    ########## Run 77 ##########
+    Algorithm: SR1 within the trust-region framework
+    Function: Function 1: Rosenbrock
+    Initial Point: [0.2 0.8]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 999
+    Final Iterate x_k: [0.2 0.8]
+    Size ||∇f(xk)||: 164.3099510072351
+    Distance to the solution: 0.8246211251235323
+
+    
+    ########## Run 78 ##########
+    Algorithm: SR1 within the trust-region framework
+    Function: Function 1: Rosenbrock
+    Initial Point: [0.2 0.8]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 999
+    Final Iterate x_k: [0.2 0.8]
+    Size ||∇f(xk)||: 164.309951010801
+    Distance to the solution: 0.8246211251235323
+
+    
+    ########## Run 79 ##########
+    Algorithm: SR1 within the trust-region framework
+    Function: Function 2
+    Initial Point: [-0.2  1.2]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 999
+    Final Iterate x_k: [-0.2  1.2]
+    Size ||∇f(xk)||: 87.50182855232224
+    Distance to the solution: 0.282842712474619
+
+    
+    ########## Run 80 ##########
+    Algorithm: SR1 within the trust-region framework
+    Function: Function 2
+    Initial Point: [-0.2  1.2]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 999
+    Final Iterate x_k: [-0.2  1.2]
+    Size ||∇f(xk)||: 87.50182855223163
+    Distance to the solution: 0.282842712474619
+
+    
+    ########## Run 81 ##########
+    Algorithm: SR1 within the trust-region framework
+    Function: Function 2
+    Initial Point: [3.8 0.1]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 999
+    Final Iterate x_k: [3.8 0.1]
+    Size ||∇f(xk)||: 433.7524754972587
+    Distance to the solution: 0.22360679774997913
+
+    
+    ########## Run 82 ##########
+    Algorithm: SR1 within the trust-region framework
+    Function: Function 2
+    Initial Point: [3.8 0.1]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 999
+    Final Iterate x_k: [3.8 0.1]
+    Size ||∇f(xk)||: 433.75247549643564
+    Distance to the solution: 0.22360679774997913
+
+    
+    ########## Run 83 ##########
+    Algorithm: SR1 within the trust-region framework
+    Function: Function 2
+    Initial Point: [1.9 0.6]
+    Gradient and Hessian: True (not approximated)
+
+    Number of Iterations: 999
+    Final Iterate x_k: [1.9 0.6]
+    Size ||∇f(xk)||: 682.0474928478221
+    Distance to the solution: 1.9416487838947598
+
+    
+    ########## Run 84 ##########
+    Algorithm: SR1 within the trust-region framework
+    Function: Function 2
+    Initial Point: [1.9 0.6]
+    Gradient and Hessian: Approximated
+
+    Number of Iterations: 999
+    Final Iterate x_k: [1.9 0.6]
+    Size ||∇f(xk)||: 682.0474928291383
+    Distance to the solution: 1.9416487838947598
+
+    
+    ########## Run 85 ##########
+    Algorithm: Linear CG
+    n: 5
+
+    Number of Iterations: 5
+    Final Iterate x_k: [    5.00000068  -120.00000031   629.99999952 -1120.0000005
+   629.99999952]
+
+        
+    ########## Run 86 ##########
+    Algorithm: Steepest Descent
+    n: 5
+
+    Number of Iterations: 999
+    Final Iterate x_k: [  0.06650316  10.38077927 -34.63443898 -10.72550101  49.67815082]
+
+        
+    ########## Run 87 ##########
+    Algorithm: Linear CG
+    n: 8
+
+    Number of Iterations: 18
+    Final Iterate x_k: [-7.99999383e+00  5.03999853e+02 -7.55999939e+03  4.62000001e+04
+ -1.38600004e+05  2.16216007e+05 -1.68168004e+05  5.14800007e+04]
+
+        
+    ########## Run 88 ##########
+    Algorithm: Steepest Descent
+    n: 8
+
+    Number of Iterations: 999
+    Final Iterate x_k: [ -2.24680726  18.32172667  -8.92553605 -26.69001052 -24.74495861
+  -7.13338144  20.81999568  54.96774927]
+
+        
+    ########## Run 89 ##########
+    Algorithm: Linear CG
+    n: 12
+
+    Number of Iterations: 48
+    Final Iterate x_k: [-9.61024768e+00  8.15451704e+02 -1.64970899e+04  1.35512201e+05
+ -5.36483673e+05  1.02539965e+06 -6.42577360e+05 -6.57590441e+05
+  8.04244186e+05  6.63072167e+05 -1.24128165e+06  4.65507999e+05]
+
+        
+    ########## Run 90 ##########
+    Algorithm: Steepest Descent
+    n: 12
+
+    Number of Iterations: 999
+    Final Iterate x_k: [ -1.67010746   5.61545557  12.27637145  -2.45602637 -16.66380334
+ -23.64249536 -22.74457684 -15.14632811  -2.36005037  14.23843477
+  33.52518387  54.62391017]
+
+        
+    ########## Run 91 ##########
+    Algorithm: Linear CG
+    n: 20
+
+    Number of Iterations: 97
+    Final Iterate x_k: [-1.09782105e+01  1.05114822e+03 -2.39595189e+04  2.20443006e+05
+ -9.65382308e+05  1.99011633e+06 -1.25267163e+06 -1.34347029e+06
+  8.83209243e+05  1.68794770e+06  3.88196565e+05 -1.30551527e+06
+ -1.71052654e+06 -5.28228797e+05  1.20869780e+06  2.00288788e+06
+  9.44575789e+05 -1.43407963e+06 -2.65096757e+06  1.88788636e+06]
+
+        
+    ########## Run 92 ##########
+    Algorithm: Steepest Descent
+    n: 20
+
+    Number of Iterations: 999
+    Final Iterate x_k: [  0.6482404  -10.54964321  13.22474536  16.78658373   9.60506507
+  -0.75119187 -10.43673435 -17.78746179 -22.25594494 -23.83426776
+ -22.75665081 -19.34920436 -13.95575237  -6.90290761   1.5146672
+  11.03875351  21.44704189  32.55030632  44.18871297  56.22798787]
+
+        
+    ########## Run 93 ##########
+    Algorithm: Linear CG
+    n: 30
+
+    Number of Iterations: 216
+    Final Iterate x_k: [-1.25713001e+01  1.38839209e+03 -3.67167673e+04  3.96224633e+05
+ -2.08006266e+06  5.43199959e+06 -5.71541146e+06 -1.60115244e+06
+  4.84392773e+06  3.47417005e+06 -1.96733833e+06 -4.97766201e+06
+ -3.39535930e+06  7.57856474e+05  4.23404264e+06  4.94837151e+06
+  2.77353703e+06 -9.01840986e+05 -4.14635974e+06 -5.41774885e+06
+ -4.14152758e+06 -8.49696676e+05  3.05425757e+06  5.79991443e+06
+  5.88133493e+06  2.71311573e+06 -2.77617886e+06 -7.65922268e+06
+ -6.66555533e+06  8.02202762e+06]
+
+        
+    ########## Run 94 ##########
+    Algorithm: Steepest Descent
+    n: 30
+
+    Number of Iterations: 999
+    Final Iterate x_k: [  1.74126246 -11.64384363   0.97101539  11.72386177  15.37525826
+  13.5701631    8.6371105    2.36391925  -4.07100398  -9.9518656
+ -14.87762456 -18.65135296 -21.20448409 -22.5467821  -22.73388124
+ -21.84647045 -19.97709939 -17.2219451  -13.67579717  -9.42912449
+  -4.56648091   0.83423533   6.70198626  12.97247053  19.58780709
+  26.49611437  33.65104135  41.01128638  48.5401259   56.20496585]
+
+        
+    ########## Task 6 ##########
+    
+    Function to Optimize: Function 1: Rosenbrock
+    Initial Point: [1.2 1.2]
+
+    Time (Newton Method): 0.0001308917999267578
+    Solution (Newton): [1. 1.]
+
+    Time (BFGS - Quasi-Newton): 0.00027489662170410156
+    Solution (BFGS): (array([1.        , 1.00000001]), 12)
+
+    Winner: Newton Method
+
+                
+    ########## Task 6 ##########
+    
+    Function to Optimize: Function 1: Rosenbrock
+    Initial Point: [-1.2  1. ]
+
+    Time (Newton Method): 0.0002582073211669922
+    Solution (Newton): [1. 1.]
+
+    Time (BFGS - Quasi-Newton): 0.0006611347198486328
+    Solution (BFGS): (array([1.        , 0.99999999]), 34)
+
+    Winner: Newton Method
+
+                
+    ########## Task 6 ##########
+    
+    Function to Optimize: Function 1: Rosenbrock
+    Initial Point: [0.2 0.8]
+
+    Time (Newton Method): 0.00016617774963378906
+    Solution (Newton): [1.         0.99999999]
+
+    Time (BFGS - Quasi-Newton): 0.00039124488830566406
+    Solution (BFGS): (array([1., 1.]), 19)
+
+    Winner: Newton Method
+
+                
+    ########## Task 6 ##########
+    
+    Function to Optimize: Function 2
+    Initial Point: [-0.2  1.2]
+
+    Time (Newton Method): 0.19327116012573242
+    Solution (Newton): [-0.15716519  0.72412715]
+
+    Time (BFGS - Quasi-Newton): 0.0003159046173095703
+    Solution (BFGS): (array([-1.56119056e-11,  9.99999998e-01]), 11)
+
+    Winner: BFGS
+
+                
+    ########## Task 6 ##########
+    
+    Function to Optimize: Function 2
+    Initial Point: [3.8 0.1]
+
+    Time (Newton Method): 0.1874380111694336
+    Solution (Newton): [1.45086007 0.06064898]
+
+    Time (BFGS - Quasi-Newton): 0.0002219676971435547
+    Solution (BFGS): (array([4.00000002e+00, 1.39310617e-10]), 7)
+
+    Winner: BFGS
+
+                
+    ########## Task 6 ##########
+    
+    Function to Optimize: Function 2
+    Initial Point: [1.9 0.6]
+
+    Time (Newton Method): 0.15335774421691895
+    Solution (Newton): [0.4366814 0.1092978]
+
+    Time (BFGS - Quasi-Newton): 0.0005109310150146484
+    Solution (BFGS): (array([6.50672718e-12, 1.00000000e+00]), 20)
+
+    Winner: BFGS
+
+                
+
+    As we can see, for the second problem (not rosenbrock function), quesi-newton method BFGS converges faster than Newton Method.
+    

@@ -1,0 +1,23 @@
+Group: 36
+Members: Maximilian Voshchepynets (k11946886)
+
+To run the project, type 'python3 main.py' in the command line.
+
+Caution: The active set method may sometimes throw 'numpy.linalg.LinAlgError: Singular matrix' due to random nature of selection of starting points.
+In this case, just try to rerun the program.
+
+
+Part 1: Simplex Method
+
+The implementation of the simplex method for feasible starting points can be found in: src/simplex_method_feasible.py
+The implementation of the simplex method for infeasible starting points can be found in: src/simplex_method_infeasible.py
+
+The results can be found in: ./report-simplex.txt
+Problems: ./problems-simplex.txt
+
+
+Part 2: Active Set Method
+
+The implementation of the active set method can be found in: src/active_set_method.py
+
+The results can be found in: ./report-active-set-method.txt
